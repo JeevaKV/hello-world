@@ -1,2 +1,2 @@
-#!/usr/bin/env python
-print "Hello World"
+#Simple printing 
+print ("Hello World")
